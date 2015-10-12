@@ -1,0 +1,25 @@
+{
+  "name": "wordsusedwell",
+  "version": "1.0.0",
+  "description": "words used well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macklevine/wordsusedwell.git"
+  },
+  "author": "mack levine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macklevine/wordsusedwell/issues"
+  },
+  "homepage": "https://github.com/macklevine/wordsusedwell#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.45",
+    "mongoose": "^4.1.10"
+  }
+}
